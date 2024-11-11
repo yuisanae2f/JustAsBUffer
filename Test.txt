@@ -1,5 +1,0 @@
-Loop: 1, elapsed: 108, e: 108
-Loop: 100, elapsed: 8202, e: 82
-Loop: 1000, elapsed: 81237, e: 81
-Loop: 10000, elapsed: 797114, e: 79
-Loop: 100000, elapsed: 8107779, e: 81
